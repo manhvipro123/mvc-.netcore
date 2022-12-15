@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8F8D32A5-6FA6-4008-8C87-8E4A2BD6662C}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MvcJav PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcJav/Models/SeedData.cs">
+    <Files>
+      <File FileName="MvcJav/Models/Jav.cs" Line="1" Column="1" />
+      <File FileName="MvcJav/Data/MvcJavContext.cs" Line="1" Column="1" />
+      <File FileName="MvcJav/Models/SeedData.cs" Line="14" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MvcJav" expanded="True">
+            <Node name="MvcJav" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
